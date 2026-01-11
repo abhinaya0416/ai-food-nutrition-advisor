@@ -1,34 +1,34 @@
-# ai-food-nutrition-advisor 
-Requirements Document 
+## ai-food-nutrition-advisor ~
+ Requirements Document 
 ## 1. Application Overview.
 ## 1.1 Application Name\nAI Food & Nutrition Advisor.  
-## 1.2 Application Description An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans, recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing nutrients, and get improvement suggestions. 
+## 1.2 Application Description An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans,   recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing       nutrients, and get improvement suggestions. 
 ## 2. Core Features ~
 # 2.1 User Input Form A comprehensive form to collect user personal details including:~
-- Name
-- Age
-- Gender (Male/Female/Other)
-- Height (in cm)
-- Weight (in kg)
-- Health Goal (dropdown: weight loss / weight gain / muscle gain / diabetic / general fitness)
-- Food Preference (dropdown: vegetarian / non-vegetarian / vegan)
-- Cuisine Preference (dropdown: Indian Food / Western Food)
-- Duration of Diet Plan (dropdown: 1 month / 3 months / 6 months / 9 months / 12 months)
-- Medical Conditions (optional text field)
+ - Name.
+ - Age.
+ - Gender (Male/Female/Other).
+ - Height (in cm).
+ - Weight (in kg).
+ - Health Goal (dropdown: weight loss / weight gain / muscle gain / diabetic / general fitness).
+ - Food Preference (dropdown: vegetarian / non-vegetarian / vegan).
+ - Cuisine Preference (dropdown: Indian Food / Western Food).
+ - Duration of Diet Plan (dropdown: 1 month / 3 months / 6 months / 9 months / 12 months).
+ - Medical Conditions (optional text field).
 # 2.2 Results Display Page A separate page displaying personalized nutrition advice including:~
-- BMI Status (underweight / normal / overweight)
-- Daily Calorie Requirement
-- Complete Balanced Diet Plan for All Days:- Display diet plan for the entire duration selected by the user (1 month / 3 months / 6 months / 9 months / 12 months)
-- - For each day, include:
-- - Breakfast (with calorie count)
-- - Lunch (with calorie count)
-- - Snacks (with calorie count)
-- - Dinner (with calorie count)
-- - Total daily calories
-- - Recommended Foods to Include
-- - Foods to Avoid
-- - 3 Simple Health and Lifestyle Tips
-- - Medical Disclaimer 
+ - BMI Status (underweight / normal / overweight)
+ - Daily Calorie Requirement
+ - Complete Balanced Diet Plan for All Days:- Display diet plan for the entire duration selected by the user (1 month / 3 months / 6 months / 9 months / 12 months)
+  - For each day, include:
+  - Breakfast (with calorie count)
+  - Lunch (with calorie count)
+  - Snacks (with calorie count)
+  - Dinner (with calorie count)
+  - Total daily calories
+  - Recommended Foods to Include
+  - Foods to Avoid
+  - 3 Simple Health and Lifestyle Tips
+   - Medical Disclaimer 
 # 2.3 Food Plate Photo Analysis ~
 Photo Upload Feature: Allow users to upload photos of their food plates 
 - AI Analysis Results Display:   - Nutrient Balance Assessment: Evaluate the balance of macronutrients (proteins, carbohydrates, fats) and micronutrients in the uploaded meal
