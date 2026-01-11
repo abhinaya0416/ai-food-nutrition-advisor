@@ -1,10 +1,10 @@
 # ai-food-nutrition-advisor 
- Requirements Document 
- ## 1. Application Overview.
- ## 1.1 Application Name\nAI Food & Nutrition Advisor.  
- ## 1.2 Application Description An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans, recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing nutrients, and get improvement suggestions. 
- ## 2. Core Features ~
- # 2.1 User Input Form A comprehensive form to collect user personal details including:~
+Requirements Document 
+## 1. Application Overview.
+## 1.1 Application Name\nAI Food & Nutrition Advisor.  
+## 1.2 Application Description An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans, recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing nutrients, and get improvement suggestions. 
+## 2. Core Features ~
+# 2.1 User Input Form A comprehensive form to collect user personal details including:~
 - Name
 - Age
 - Gender (Male/Female/Other)
@@ -15,7 +15,7 @@
 - Cuisine Preference (dropdown: Indian Food / Western Food)
 - Duration of Diet Plan (dropdown: 1 month / 3 months / 6 months / 9 months / 12 months)
 - Medical Conditions (optional text field)
- # 2.2 Results Display Page A separate page displaying personalized nutrition advice including:~
+# 2.2 Results Display Page A separate page displaying personalized nutrition advice including:~
 - BMI Status (underweight / normal / overweight)
 - Daily Calorie Requirement
 - Complete Balanced Diet Plan for All Days:- Display diet plan for the entire duration selected by the user (1 month / 3 months / 6 months / 9 months / 12 months)
@@ -23,20 +23,20 @@
 - - Breakfast (with calorie count)
 - - Lunch (with calorie count)
 - - Snacks (with calorie count)
- - - Dinner (with calorie count)
+- - Dinner (with calorie count)
 - - Total daily calories
- - - Recommended Foods to Include
+- - Recommended Foods to Include
 - - Foods to Avoid
 - - 3 Simple Health and Lifestyle Tips
- - - Medical Disclaimer 
- # 2.3 Food Plate Photo Analysis ~
- Photo Upload Feature: Allow users to upload photos of their food plates 
+- - Medical Disclaimer 
+# 2.3 Food Plate Photo Analysis ~
+Photo Upload Feature: Allow users to upload photos of their food plates 
 - AI Analysis Results Display:   - Nutrient Balance Assessment: Evaluate the balance of macronutrients (proteins, carbohydrates, fats) and micronutrients in the uploaded meal
 - Missing Nutrients Identification: Highlight nutrients that are lacking or insufficient in the meal 
 - Improvement Tips: Provide actionable suggestions to enhance the nutritional value of the meal
- # 2.4 Save and Print Functionality ~
- - Save Diet Plan: Allow users to save their personalized diet plan for future reference - Print Diet Plan: Enable users to print the complete nutrition advice and diet plan
- ## 3. User Flow ~
+# 2.4 Save and Print Functionality ~
+- Save Diet Plan: Allow users to save their personalized diet plan for future reference - Print Diet Plan: Enable users to print the complete nutrition advice and diet plan
+## 3. User Flow ~
 1. User lands on the home page with the input form
 2. User fills in all required personal details including cuisine preference
 3. User submits the form
