@@ -1,8 +1,7 @@
 ## ai-food-nutrition-advisor ~
  Requirements Document 
 ## 1. Application Overview.
-## 1.1 Application Name :
-Nutrition Advisor.  
+## 1.1 Application Name : Nutrition Advisor.  
 ## 1.2 Application Description An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans,   recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing       nutrients, and get improvement suggestions. 
 ## 2. Core Features ~
 # 2.1 User Input Form A comprehensive form to collect user personal details including:~
