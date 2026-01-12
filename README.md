@@ -1,12 +1,15 @@
 AI Nutrition Advisor Requirements Document
+
 1. Application Overview
-1.1 Application Name
+
+1.1 Application Name:
 AI Nutrition Advisor
 
-1.2 Application Description
+1.2 Application Description:
 An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans, recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing nutrients, and get improvement suggestions.
 
 2. Core Features
+
 2.1 Login Page
 A secure and responsive login page including:
 App title or logo at the top
@@ -69,7 +72,8 @@ Improvement Tips: Provide actionable suggestions to enhance the nutritional valu
 Save Diet Plan: Allow users to save their personalized diet plan for future reference
 Print Diet Plan: Enable users to print the complete nutrition advice and diet plan
 
-3. User Flow
+3. User Flow:
+
 User lands on the login page
 User enters email and password credentials
 System validates credentials securely
@@ -83,7 +87,8 @@ System analyzes the uploaded photo and displays nutrient balance, missing nutrie
 User can save or print the diet plan from the results page
 User session is maintained using session or token to keep user logged in
 
-5. Technical Notes
+5. Technical Notes:
+
 Login page should be responsive and work well on both desktop and mobile devices
 All advice should be presented in simple, student-friendly language
 BMI calculation formula should be implemented based on height and weight
@@ -94,7 +99,8 @@ The diet plan should cover all days within the selected duration period
 Food plate photo analysis should use AI to identify food items and assess nutritional content
 A clear medical disclaimer must be displayed stating that this tool does not provide medical diagnosis
 
-7. Additional Requirements
+7. Additional Requirements:
+
 The application should be responsive and work well on both desktop and mobile devices
 Form validation should be implemented to ensure all required fields are filled correctly
 Clear error messages should be displayed for invalid inputs
