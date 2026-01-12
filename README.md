@@ -69,7 +69,7 @@ AI Nutrition Advisor
 
  Medical Conditions (optional text field)
 
-2.3 Results Display Page
+2.3 Results Display Page:
  A separate page displaying personalized nutrition advice including:
 
  BMI Status (underweight / normal / overweight)
@@ -97,8 +97,9 @@ AI Nutrition Advisor
  3 Simple Health and Lifestyle Tips
 
  Medical Disclaimer
+ 
 
-2.4 Food Plate Photo Analysis
+2.4 Food Plate Photo Analysis:
 
  Photo Upload Feature: Allow users to upload photos of their food plates
 
