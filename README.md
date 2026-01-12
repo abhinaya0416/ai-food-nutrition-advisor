@@ -13,10 +13,15 @@ An intelligent web application that provides personalized food and nutrition adv
 2.1 Login Page
 A secure and responsive login page including:
 App title or logo at the top
+
 Input fields for Email and Password
+
 Show/Hide Password toggle option
+
 Login button
+
 Forgot Password? link
+
 Sign Up / Create Account link
 
 Form validation:
