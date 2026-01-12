@@ -46,31 +46,52 @@ Keep user logged in using session or token
 A comprehensive form to collect user personal details including:
 
 Name
+
 Age
+
 Gender (Male/Female/Other)
+
 Height (in cm)
+
 Weight (in kg)
+
 Health Goal (dropdown: weight loss / weight gain / muscle gain / diabetic / general fitness)
+
 Food Preference (dropdown: vegetarian / non-vegetarian / vegan)
+
 Cuisine Preference (dropdown: Indian Food / Western Food)
+
 Duration of Diet Plan (dropdown: 1 month / 3 months / 6 months / 9 months / 12 months)
+
 Medical Conditions (optional text field)
 
 2.3 Results Display Page
 A separate page displaying personalized nutrition advice including:
+
 BMI Status (underweight / normal / overweight)
+
 Daily Calorie Requirement
+
 Complete Balanced Diet Plan for All Days:
 Display diet plan for the entire duration selected by the user (1 month / 3 months / 6 months / 9 months / 12 months)
+
 For each day, include:
 Breakfast (with calorie count)
+
 Lunch (with calorie count)
+
 Snacks (with calorie count)
+
 Dinner (with calorie count)
+
 Total daily calories
+
 Recommended Foods to Include
+
 Foods to Avoid
+
 3 Simple Health and Lifestyle Tips
+
 Medical Disclaimer
 
 2.4 Food Plate Photo Analysis
