@@ -8,7 +8,7 @@ AI Nutrition Advisor
 1.2 Application Description:
 An intelligent web application that provides personalized food and nutrition advice based on user's personal health details. The tool calculates BMI, suggests balanced diet plans, recommends foods, and provides lifestyle tips tailored to individual health goals and preferences. Additionally, users can upload food plate photos to receive AI-powered nutrient analysis, identify missing nutrients, and get improvement suggestions.
 
-2. Core Features
+2. Core Features:
 
 2.1 Login Page
 A secure and responsive login page including:
@@ -26,18 +26,25 @@ Sign Up / Create Account link
 
 Form validation:
 Required field validation
+
 Valid email format validation
+
 User-friendly error messages for incorrect login credentials
+
 Mobile-friendly and clean UI design with simple, modern, and professional look
 
 Authentication behavior:
 Validate user credentials securely
+
 Redirect to the main dashboard after successful login
+
 Display error message on invalid credentials
+
 Keep user logged in using session or token
 
 2.2 User Input Form
 A comprehensive form to collect user personal details including:
+
 Name
 Age
 Gender (Male/Female/Other)
