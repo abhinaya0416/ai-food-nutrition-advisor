@@ -44,7 +44,8 @@ AI Nutrition Advisor
 
  Display error message on invalid credentials
 
- Keep user logged in using session or token
+ Keep user logged in using session or token.
+
 
 2.2 User Input Form
  A comprehensive form to collect user personal details including:
@@ -68,6 +69,7 @@ AI Nutrition Advisor
  Duration of Diet Plan (dropdown: 1 month / 3 months / 6 months / 9 months / 12 months)
 
  Medical Conditions (optional text field)
+
 
 2.3 Results Display Page:
  A separate page displaying personalized nutrition advice including:
@@ -118,6 +120,7 @@ AI Nutrition Advisor
  Print Diet Plan: Enable users to print the complete nutrition advice and diet plan.
 
 
+
 3. User Flow:
 
  User lands on the login page
@@ -145,6 +148,7 @@ AI Nutrition Advisor
  User session is maintained using session or token to keep user logged in
 
 
+
 4. Technical Notes:
 
  Login page should be responsive and work well on both desktop and mobile devices
@@ -164,6 +168,7 @@ AI Nutrition Advisor
  Food plate photo analysis should use AI to identify food items and assess nutritional content
 
  A clear medical disclaimer must be displayed stating that this tool does not provide medical diagnosis
+
 
 
 5. Additional Requirements:
