@@ -72,6 +72,7 @@ AI Nutrition Advisor
 
 
 2.3 Results Display Page:
+
  A separate page displaying personalized nutrition advice including:
 
  BMI Status (underweight / normal / overweight)
